@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/6d84549f-c97b-455f-b68b-232f537e71df/resourceGroups/Nedamco-Academy-Phase1/providers/Microsoft.Web/sites/SignLoginApp",
+    "appService.deploySubpath": "."
+}
